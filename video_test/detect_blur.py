@@ -27,3 +27,4 @@ for imagePath in paths.list_images(list_test):
 		name= imagePath
 
 print("fms max",fm_save)
+print("name best image in folder",name)
